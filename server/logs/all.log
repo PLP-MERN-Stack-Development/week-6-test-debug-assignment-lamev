@@ -1,0 +1,25 @@
+2025-07-20 23:49:12:4912 [32minfo[39m: [32mMongoDB connected successfully[39m
+2025-07-20 23:49:12:4912 [32minfo[39m: [32mServer running on port 5000[39m
+2025-07-20 23:51:35:5135 [32minfo[39m: [32mMongoDB connected successfully[39m
+2025-07-20 23:52:54:5254 [32minfo[39m: [32mMongoDB connected successfully[39m
+2025-07-20 23:52:54:5254 [32minfo[39m: [32mServer running on port 5000[39m
+2025-07-20 23:52:54:5254 [32minfo[39m: [32mMongoDB connected successfully[39m
+2025-07-20 23:53:01:531 [32minfo[39m: [32mMongoDB connected successfully[39m
+2025-07-20 23:53:01:531 [32minfo[39m: [32mMongoDB connected successfully[39m
+2025-07-20 23:53:01:531 [32minfo[39m: [32mServer running on port 5000[39m
+2025-07-20 23:53:05:535 [32minfo[39m: [32mMongoDB connected successfully[39m
+2025-07-20 23:53:05:535 [32minfo[39m: [32mServer running on port 5000[39m
+2025-07-20 23:53:05:535 [32minfo[39m: [32mMongoDB connected successfully[39m
+2025-07-20 23:55:17:5517 [32minfo[39m: [32m::1 - - [20/Jul/2025:20:55:17 +0000] "GET /health HTTP/1.1" 200 54 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.4202"[39m
+2025-07-21 00:05:23:523 [32minfo[39m: [32mMongoDB connected successfully[39m
+2025-07-21 00:06:05:65 [32minfo[39m: [32mMongoDB connected successfully[39m
+2025-07-21 00:06:05:65 [32minfo[39m: [32mServer running on port 5000[39m
+2025-07-21 00:06:05:65 [32minfo[39m: [32mMongoDB connected successfully[39m
+2025-07-21 00:06:06:66 [32minfo[39m: [32mMongoDB connected successfully[39m
+2025-07-21 00:08:23:823 [32minfo[39m: [32mMongoDB connected successfully[39m
+2025-07-21 00:08:23:823 [32minfo[39m: [32mServer running on port 5000[39m
+2025-07-21 00:08:23:823 [32minfo[39m: [32mMongoDB connected successfully[39m
+2025-07-21 00:08:23:823 [32minfo[39m: [32mMongoDB connected successfully[39m
+2025-07-21 00:08:42:842 [32minfo[39m: [32m::1 - - [20/Jul/2025:21:08:42 +0000] "GET /health HTTP/1.1" 200 54 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.4202"[39m
+2025-07-21 00:15:59:1559 [32minfo[39m: [32mMongoDB connected successfully[39m
+2025-07-21 00:15:59:1559 [32minfo[39m: [32mServer running on port 5000[39m

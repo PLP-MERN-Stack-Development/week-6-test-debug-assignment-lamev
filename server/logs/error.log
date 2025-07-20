@@ -1,0 +1,9 @@
+2025-07-20 23:51:35:5135 [31merror[39m: [31mUncaught Exception: listen EADDRINUSE: address already in use :::5000[39m
+2025-07-20 23:52:54:5254 [31merror[39m: [31mUncaught Exception: listen EADDRINUSE: address already in use :::5000[39m
+2025-07-20 23:53:01:531 [31merror[39m: [31mUncaught Exception: listen EADDRINUSE: address already in use :::5000[39m
+2025-07-20 23:53:05:535 [31merror[39m: [31mUncaught Exception: listen EADDRINUSE: address already in use :::5000[39m
+2025-07-21 00:05:23:523 [31merror[39m: [31mUncaught Exception: listen EADDRINUSE: address already in use :::5000[39m
+2025-07-21 00:06:05:65 [31merror[39m: [31mUncaught Exception: listen EADDRINUSE: address already in use :::5000[39m
+2025-07-21 00:06:06:66 [31merror[39m: [31mUncaught Exception: listen EADDRINUSE: address already in use :::5000[39m
+2025-07-21 00:08:23:823 [31merror[39m: [31mUncaught Exception: listen EADDRINUSE: address already in use :::5000[39m
+2025-07-21 00:08:23:823 [31merror[39m: [31mUncaught Exception: listen EADDRINUSE: address already in use :::5000[39m
